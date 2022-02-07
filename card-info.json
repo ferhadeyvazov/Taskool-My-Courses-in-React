@@ -1,0 +1,44 @@
+[
+    {
+        "id": 14,
+        "language": 1,
+        "title": "rwre",
+        "teacher": 2,
+        "price": "34.00",
+        "image": null,
+        "description": "fgttfth",
+        "course_deadline": "3",
+        "is_shared": true,
+        "category": 1,
+        "video": null,
+        "youtube_video_url": "retertte"
+    },
+    {
+        "id": 13,
+        "language": 1,
+        "title": "rwre",
+        "teacher": 2,
+        "price": "34.00",
+        "image": null,
+        "description": "fgttfth",
+        "course_deadline": "3",
+        "is_shared": true,
+        "category": 1,
+        "video": null,
+        "youtube_video_url": "retertte"
+    },
+    {
+        "id": 12,
+        "language": 1,
+        "title": "wer",
+        "teacher": 2,
+        "price": "12.00",
+        "image": "http://3.68.156.86:8000/media/images/download.jpeg",
+        "description": "wwer",
+        "course_deadline": "3",
+        "is_shared": true,
+        "category": 1,
+        "video": null,
+        "youtube_video_url": "ewewr"
+    }
+]
